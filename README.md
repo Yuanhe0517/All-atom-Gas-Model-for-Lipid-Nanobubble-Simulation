@@ -21,6 +21,8 @@ AA-LNB.py -r 3 -d 1 -x 20 -y 20 -z 20 -u POPC -sol TIP3:100 -sol CO:0.06 -sold 0
 AA-LNB.py -r 3 -d 1 -x 20 -y 20 -z 20 -u POPC -sol TIP3:100 -sol CO2:1.3 -sold 0.26 -salt 0.15 -a 1.2 -gas CO2 -o CO2-LNB.gro -gden 520 -excl 0.5
 
 AA-LNB.py -r 3 -d 1 -x 20 -y 20 -z 20 -u POPC -sol TIP3:100 -sol SO2:0.4 -sold 0.26 -salt 0.15 -a 1.2 -gas SO2 -o SO2-LNB.gro -gden 570 -excl 0.5
+```
+
 Parameter Explanation
 -r Radius of the gas sphere (nm)
 
