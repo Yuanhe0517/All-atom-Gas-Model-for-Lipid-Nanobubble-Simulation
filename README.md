@@ -1,8 +1,8 @@
-# All-atom-Gas-Model-for-Lipid-Nanobubble-Simulation
+# All-atom-Gas-Model-for-Lipid-Nanobubble-Simulation [1]
 
 # AA-LNB.py
 
-`AA-LNB.py` is a modified version of `insane.py` [1] by Yuan He, Yuxuan Wang, Xiu Li, and Xubo Lin. It can generate the input conformation for lipid nanobubble simulations.
+`AA-LNB.py` is a modified version of `insane.py` [2] by Yuan He, Yuxuan Wang, Xiu Li, and Xubo Lin. It can generate the input conformation for lipid nanobubble simulations.
 
 ## Generating Lipid Nanobubble Simulation Systems
 
@@ -55,6 +55,8 @@ AA-LNB.py -r 3 -d 1 -x 20 -y 20 -z 20 -u POPC -sol TIP3:100 -sol SO2:0.4 -sold 0
 
 ## References:
 
-[1] Wassenaar, T. A.; Ingólfsson, H. I.; Bockmann, R. A.; Tieleman, D. P.; Marrink, S. J. Computational
+[1] Li X, He Y, Wang Y, et al. CHARMM36 All-Atom Gas Model for Lipid Nanobubble Simulation[J]. Journal of Chemical Information and Modeling, 2024, 64(19): 7503-7512.
+
+[2] Wassenaar, T. A.; Ingólfsson, H. I.; Bockmann, R. A.; Tieleman, D. P.; Marrink, S. J. Computational
 lipidomics with insane: a versatile tool for generating custom membranes for molecular simulations. J. Chem.
 Theory Comput. 2015, 11, 2144-2155.
