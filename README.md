@@ -1,6 +1,5 @@
 # All-atom-Gas-Model-for-Lipid-Nanobubble-Simulation [1]
 
-# AA-LNB.py
 
 `AA-LNB.py` is a modified version of `insane.py` [2] by Yuan He, Yuxuan Wang, Xiu Li, and Xubo Lin. It can generate the input conformation for lipid nanobubble simulations.
 
