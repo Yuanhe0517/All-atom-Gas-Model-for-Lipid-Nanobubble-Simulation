@@ -24,6 +24,7 @@ AA-LNB.py -r 3 -d 1 -x 20 -y 20 -z 20 -u POPC -sol TIP3:100 -sol SO2:0.4 -sold 0
 ```
 
 Parameter Explanation
+
 -r Radius of the gas sphere (nm)
 
 -d Distance between periodic images (nm)
