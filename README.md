@@ -23,7 +23,7 @@ AA-LNB.py -r 3 -d 1 -x 20 -y 20 -z 20 -u POPC -sol TIP3:100 -sol CO2:1.3 -sold 0
 AA-LNB.py -r 3 -d 1 -x 20 -y 20 -z 20 -u POPC -sol TIP3:100 -sol SO2:0.4 -sold 0.26 -salt 0.15 -a 1.2 -gas SO2 -o SO2-LNB.gro -gden 570 -excl 0.5
 ```
 
-Parameter Explanation
+## Parameter Explanation
 
 -r Radius of the gas sphere (nm)
 
@@ -52,3 +52,9 @@ Parameter Explanation
 -excl Exclusion range (nm) for solvent addition relative to the membrane surface
 
 -o Output GRO file: Membrane with Protein
+
+## References:
+
+[1] Wassenaar, T. A.; Ingólfsson, H. I.; Bockmann, R. A.; Tieleman, D. P.; Marrink, S. J. Computational
+lipidomics with insane: a versatile tool for generating custom membranes for molecular simulations. J. Chem.
+Theory Comput. 2015, 11, 2144-2155.
